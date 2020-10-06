@@ -1,3 +1,5 @@
+
+// The database parameters for the connection
 module.exports = {
     HOST: "",
     USER: "",
